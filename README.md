@@ -2,6 +2,4 @@
 Spring Boot + Rest + Mysql +Angular Full Stack Proje yapımı
 
 
-
-jkjk
 checked
