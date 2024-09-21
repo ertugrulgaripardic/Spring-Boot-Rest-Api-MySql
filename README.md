@@ -1,3 +1,3 @@
 # Spring-Boot-Rest-Api-MySql
 
-Spring Boot + Rest + Mysql + Angular Full Stack Project
+Spring Boot Full Stack Project + Rest + Mysql + Angular 
