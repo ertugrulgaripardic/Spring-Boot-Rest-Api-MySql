@@ -34,7 +34,6 @@ Before running this project, ensure you have the following installed:
     mvn clean install
     mvn spring-boot:run
     ```
-
 5. Access the API at:
     ```
     http://localhost:8080/api/v1/resources
