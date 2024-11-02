@@ -37,7 +37,6 @@ Before running this project, ensure you have the following installed:
     ```
     http://localhost:8080/api/v1/resources
     ```
-
 ## API Endpoints
 - `GET /api/v1/resources` - Fetch all resources
 - `GET /api/v1/resources/{id}` - Fetch a single resource by ID
