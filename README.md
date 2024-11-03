@@ -24,7 +24,7 @@ Before running this project, ensure you have the following installed:
 2. Navigate to the project directory:
     ```bash
     cd Spring-Boot-Rest-Api-MySql
-    ```
+    ```..
 3. Set up MySQL database:
     - Create a new MySQL database.
     - Update the `application.properties` file with your MySQL database credentials.
