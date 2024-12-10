@@ -46,7 +46,6 @@ Before running this project, ensure you have the following installed:
 - `PUT /api/v1/resources/{id}` - Update an existing resource
 - `DELETE /api/v1/resources/{id}` - Delete a resource by ID
 
-
 ## Technologies Used
 - Spring Boot
 - Spring Data JPA
