@@ -18,7 +18,7 @@ Before running this project, ensure you have the following installed:
 
 ## Getting Started
 1. Clone this repository:
-    ```bash
+    ```
     git clone https://github.com/ertugrulgaripardic/Spring-Boot-Rest-Api-MySql.git
     ```
 2. Navigate to the project directory:
