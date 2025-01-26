@@ -10,6 +10,7 @@ This project is a simple REST API built using Spring Boot, connected to a MySQL 
 - JPA and Hibernate for ORM
 3
 ## Prerequisites
+
 Before running this project, ensure you have the following installed
 - Java 11 or higher
 - Maven
