@@ -8,8 +8,8 @@ This project is a simple REST API built using Spring Boot, connected to a MySQL 
 - MySQL database integration tools
 - RESTful API for CRUD operations
 - Exception handling and validation
-- JPA and Hibernate for ORM
-3
+- JPA and Hibernate for ORM added
+ 
 ## Prerequisites
 
 Before running this project, ensure you have the following installed
