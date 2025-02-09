@@ -6,9 +6,7 @@ This project is a simple REST API built using Spring Boot, connected to a MySQL 
 
 - Spring Boot framework
 - MySQL database integration tools
-
- 
-## Prerequisites
+- Spring security
 
 Before running this project, ensure you have the following installed
 - Java 11 or higher
