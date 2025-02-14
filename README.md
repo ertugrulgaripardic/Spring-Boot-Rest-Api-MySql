@@ -27,7 +27,7 @@ Before running this project, ensure you have the following installed
     - Create a new MySQL database.
     - Update the `application.properties` file with your MySQL database credentials.
       
-4. Build and run the project:
+4. Build and run the project
     ```bash
     mvn clean install
     mvn spring-boot:run
