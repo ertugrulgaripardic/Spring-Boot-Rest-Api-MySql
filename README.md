@@ -12,7 +12,7 @@ Before running this project, ensure you have the following installed
 - Java 11 or higher
 - Maven
 - MySQL
-- An IDE (like IntelliJ IDEA or Eclipse)
+- An IDE (like IntelliJ IDEA or Eclipse
 
 ## Getting Started
 1. Clone this repository:
